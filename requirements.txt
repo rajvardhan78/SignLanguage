@@ -4,7 +4,7 @@ numpy==1.26.4
 opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
 opencv_python_headless==4.10.0.84
-protobuf==4.25.5
+protobuf==3.19.6
 streamlit==1.39.0
 google-generativeai==0.8.3
 deep_translator==1.11.4
