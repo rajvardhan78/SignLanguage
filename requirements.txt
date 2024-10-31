@@ -4,6 +4,8 @@ numpy==1.26.4
 opencv_contrib_python==4.10.0.84
 opencv_python==4.10.0.84
 opencv_python_headless==4.10.0.84
-protobuf==4.25.3
 streamlit==1.39.0
-tensorflow==2.10.1
+torch==2.1.2
+google-generativeai==0.8.3
+jax==0.3.25
+tensorflow==2.14.0
